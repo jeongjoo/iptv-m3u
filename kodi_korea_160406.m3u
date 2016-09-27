@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:0,SBS HD
+http://nlive.sbs.co.kr/sbsch6pc/sbs1ch61.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:0,KBS 1 HD
+http://rtmpplay3.idol001.com/live/korea_kbs1.m3u8
+#EXTINF:0,SBS FUN E HD
+http://nlive.sbs.co.kr/sbsetvpc/sbsetv3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:0,KBS 2 HD
+http://rtmpplay3.idol001.com/live/korea_kbs2.m3u8 
+#EXTINF:0,KBSNSPORT HD
+http://live.kbskme.gscdn.com/kbsn_sports/_definst_/kbsn_sports_5.stream/chunklist.m3u8
+#EXTINF:0,MBC HD
+http://rtmpplay3.idol001.com/live/korea_mbc.m3u8
+#EXTINF:0,MNET HD
+http://rtmpplay3.idol001.com/live/korea_mnet.m3u8
+#EXTINF:0,JTBC HD
+http://rtmpplay3.idol001.com/live/korea_jtbc.m3u8
+#EXTINF:0,TVN HD
+http://rtmpplay3.idol001.com/live/korea_tvn.m3u8 
+#EXTINF:0,ALL THE K-POP
+http://m.onairtv.mbcplus.com/m_plus_kpop/_definst_/kpop.stream/chunklist_w1818091199.m3u8?csu=false&tid=824bdfcbc100c52fc929d9252c96644b
+#EXTINF:0,MBC MUSIC
+http://119.206.194.33/chs07/05a1d39ba472a8ce181e83ed2f59d932/s3.stream/chunklist.m3u8?wowzasessionid=507411048&time=1454373400234
+#EXTINF:0,MBC QUEEN HD
+http://m.onairtv.mbcplus.com/m_plus_life/_definst_/life.stream/chunklist_w1336978358.m3u8?csu=false&tid=67661e8e9430adf015312c8d66f9ff74&time=1454373654301
+#EXTINF:0,MBC STAR & MOBILE
+http://112.175.248.84/imbc_onair_plus/_definst_/live2_1000k.stream/chunklist_w686418674.m3u8?csu=false&tid=a98bbe121347aa6bddd5ae4d30c4a0c3
+#EXTINF:0,MBC NET
+http://119.206.194.164/chk02/35674586f3452aa3f34ef0fdd90da554/s3.stream/chunklist.m3u8?wowzasessionid=863497689&time=1454373942685
+#EXTINF:0,SBS GOLF
+http://nlive.sbs.co.kr/sbsgolfpc/sbsgolf3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=&time=1454374137916
+#EXTINF:0,SBS SPORTS
+http://nlive.sbs.co.kr/sbsespnpc/sbsespn3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:0,SBS CNBC
+http://nlive.sbs.co.kr/sbscnbcpc/sbscnbc3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:0,NICK TOON
+http://nlive.sbs.co.kr/sbsnickpc/sbsnick3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:0,K STAR
+http://119.206.194.161/chr01/110da28471522730857dbe5aa489d515/s5.stream/chunklist.m3u8?wowzasessionid=188996651&time=1454374742638
+#EXTINF:0,JTBC3 FOX SPORTS
+http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
+#EXTINF:0,JTBC GOLF
+http://edge1.everyon.tv/etv1sb/phd58/chunklist_w570063991.m3u8?time=1454374878239
+#EXTINF:0,ARTE
+http://edge1.everyon.tv/etv1/phd35/playlist.m3u8
+#EXTINF:0,CHANNEL A
+http://edge1.everyon.tv/etv1/phd251/chunklist_w1976174258.m3u8
+#EXTINF:0,EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
+#EXTINF:0,EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:0,ETN
+http://edge2.everyon.tv/etv2sb/phd2/chunklist_w1140818506.m3u8
+#EXTINF:0,FOOD TV
+http://edge1.everyon.tv/etv1sb/phd1015/chunklist_w734832299.m3u8
+#EXTINF:0,MBN
+http://edge1.everyon.tv/etv1/phd17/chunklist_w1437660854.m3u8?time=1454375338605
+#EXTINF:0,OBS
+http://edge2.everyon.tv/etv2sb/phd1042/chunklist_w312619350.m3u8
+#EXTINF:0,YONHAP NEWS
+http://ev1.startlink.tk/etv1/phd133/chunklist_w1198430782.m3u8
+#EXTINF:0,YTN
+http:///ytn/ylivehd_20140419_1/media_w493994329_41797.ts?time=1454375811476
+#EXTINF:0,YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:0,ON STYLE
+http://rtmpplay3.idol001.com/live/korea_onstyle.m3u8 
+#EXTINF:0,TVChosun
+rtsp://121.167.43.161/chosun 
+#EXTINF:0,CJB-SBS
+rtsp://211.224.129.152/cjb_tv 
+#EXTINF:0,MBC MUSIC
+http://rtmpplay3.idol001.com/live/korea_mbcmusic.m3u8 
+#EXTINF:0,SBS MTV
+http://rtmpplay3.idol001.com/live/korea_sbsmtv.m3u8 
+#EXTINF:0,TVN
+http://rtmpplay3.idol001.com/live/korea_tvn.m3u8 
+#EXTINF:0,TRENDY
+http://123.108.164.71/etv2sb/phd4/playlist.m3u8 
+#EXTINF:0,TV IS
+http://111.118.21.79/etv1sb/phd551/playlist.m3u8 
+#EXTINF:0,KIDSTV
+http://123.108.164.71/etv2/phd1043/playlist.m3u8
+#EXTINF:0,DONGATV
+http://123.108.164.71/etv2sb/phd43/playlist.m3u8
+#EXTINF:0,KoreaTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8 
+#EXTINF:0,eventTV
+rtmp://123.108.164.71/etv2sb/phd389
+#EXTINF:0,STN
+http://123.108.164.71/etv2sb/phd852/playlist.m3u8
+#EXTINF:0,MBC 
+http://123.108.164.71/etv2/phd847/playlist.m3u8 
+#EXTINF:0,SAFE
+http://123.108.164.71/etv2/phd109/playlist.m3u8 
+#EXTINF:0,ARIRANG TV
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+#EXTINF:0,CookieHealthTV
+rtmp://edge2.everyon.tv/etv2/pld24 
+#EXTINF:0,sportsTV
+rtmp://edge1.everyon.tv/etv1/phd969 
+#EXTINF:0,M MONEY
+rtmp://edge1.everyon.tv:1935/etv1sb/phd563
+#EXTINF:0,asianeconomicTV
+rtmp://edge1.everyon.tv:1935/etv1sb/phd385
+#EXTINF:0,E-dailyTV
+rtmp://edge2.everyon.tv:1935/etv2sb/phd23
+#EXTINF:0,CVTV
+rtmp://edge2.everyon.tv:1935/etv2sb/phd263
+#EXTINF:0,Billiards TV
+rtmp://edge1.everyon.tv:1935/etv1sb/phd191
+#EXTINF:0,BADUK TV
+rtmp://edge1.everyon.tv:1935/etv1/phd207
+#EXTINF:0,Movie channel
+rtmp://edge1.everyon.tv:1935/etv1sb/phd381
+#EXTINF:0,CMC HD
+rtmp://edge1.everyon.tv:1935/etv1sb/phd1
+#EXTINF:0,Kids channel
+rtmp://edge2.everyon.tv:80/etv2sb/phd42
+#EXTINF:0,EnglishTV
+rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
+#EXTINF:0,K ISEN HD
+http://123.108.164.71/etv2sb/phd22/lihattv.m3u8
+#EXTINF:0,Trend
+http://123.108.164.71/etv2sb/pld4/lihattv.m3u8
+#EXTINF:0,C'time
+http://123.108.164.71/etv2sb/pld21/lihattv.m3u8
+#EXTINF:0,JEI
+http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
+#EXTINF:0,INET HD
+http://123.108.164.71/etv2sb/pld263/lihattv.m3u8
+#EXTINF:0,THE MOVIE
+http://123.108.164.71/etv2sb/pld8/lihattv.m3u8
+#EXTINF:0,POLARIS
+http://123.108.164.71/etv2sb/phd14/lihattv.m3u8
+#EXTINF:0,Arirang
+rtmp://edge2.everyon.tv/etv2/pld36
+#EXTINF:0,OBS
+rtmp://edge1.everyon.tv:1935/etv1sb/phd3
+#EXTINF:0,KIDS-TV
+rtmp://edge1.everyon.tv:1935/etv1sb/phd5
+#EXTINF:0,CHING HD
+rtmp://edge1.everyon.tv:1935/etv1sb/phd7
+#EXTINF:0,CNN HD
+rtmp://edge1.everyon.tv:1935/etv1sb/phd16
+#EXTINF:0,GIRLS TV(19)
+http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8
+#EXTINF:0,PLAYY(19+)
+http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
+#EXTINF:0,THE Yaham(19+)
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+#EXTINF:0,K-Adult1(19+)
+http://edge2.everyon.tv/etv2sb/pld10062/playlist.m3u8
+#EXTINF:0,K-Playboy(19+)
+http://123.108.164.110/etv1sb/pld10497/playlist.m3u8
+#EXTINF:0,K-Adult3(19+)
+http://123.108.164.75/etv2sb/pld10499/playlist.m3u8
+#EXTINF:0,K-Adult4(19+)
+http://123.108.164.75/etv2sb/pld10501/playlist.m3u8
+#EXTINF:0,K-Adult5(19+)
+http://123.108.164.110/etv1sb/pld10765/playlist.m3u8
+#EXTINF:0,K-Adult6(19+)
+http://123.108.164.110/etv1sb/pld10766/playlist.m3u8
+#EXTINF:0,K-Adult7(19+)
+http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
+#EXTINF:0,K-Adult8(19+)
+http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
+#EXTINF:0,K-Adult9(19+)
+http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
+#EXTINF:0,K-Adult10(19+)
+http://123.108.164.110/etv1sb/pld10927/playlist.m3u8
+#EXTINF:0,K-Adult11
+http://123.108.164.110/etv1sb/pld10928/playlist.m3u8
+#EXTINF:0,-Adult12(19+)
+http://edge1.everyon.tv/etv1sb/pld10928/playlist.m3u8
