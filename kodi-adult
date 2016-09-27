@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="BABESTATION1" tvg-name="BABESTATION1" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",BABESTATION1
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+
+#EXTINF:0 tvg-id="BABESTATION2" tvg-name="BABESTATION2" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",BABESTATION2
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
+
+#EXTINF:0 tvg-id="BABESTATION3" tvg-name="BABESTATION3" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",BABESTATION3
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+#EXTINF:0 tvg-id="BABESTATION4" tvg-name="BABESTATION4" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",BABESTATION4
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:0 tvg-id="JASMIN.TV" tvg-name="JASMIN.TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",JASMIN.TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="Brazzers TV" tvg-name="Brazzers TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Brazzers TV
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/125.m3u8
+
+#EXTINF:0 tvg-id="Hustler" tvg-name="Hustler" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Hustler
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/123.m3u8
+
+#EXTINF:0 tvg-id="Porn Channel 1" tvg-name="Porn Channel 1" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Porn Channel 1
+http://premium.exabytetv.info/xtc/dlso8ws/655/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Porn Channel 2" tvg-name="Porn Channel 2" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Porn Channel 2
+http://premium.exabytetv.info/xtc/dlso8ws/656/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="ButGO" tvg-name="ButGO" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",ButGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Playboy Asia" tvg-name="Playboy Asia" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Playy 19+" tvg-name="Playy 19+" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Playy 19+
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Sakura Porn TV" tvg-name="Sakura Porn TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Sakura Porn TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Candy TV" tvg-name="Candy TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Candy TV
+http://cdn-01.bonus-tv.ru/TVB7/candy/playlist.m3u8
+
+#EXTINF:0 tvg-id="LIVETing TV" tvg-name="LIVETing TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",LIVETing TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Visit-X TV" tvg-name="Visit-X TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="STORM BABES TV" tvg-name="STORM BABES TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",STORM BABES TV CH1
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/playlist.m3u8
+
+#EXTINF:0 tvg-id="STORM BABES TV" tvg-name="STORM BABES TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",STORM BABES TV CH2
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD1"  group-title="Adultos",VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD2"  group-title="Adultos",VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD3"  group-title="Adultos",VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD4"  group-title="Adultos",VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD5"  group-title="Adultos",VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD6"  group-title="Adultos",VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD7"  group-title="Adultos",VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD8"  group-title="Adultos",VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD9"  group-title="Adultos",VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD10"  group-title="Adultos",VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD11"  group-title="Adultos",VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
